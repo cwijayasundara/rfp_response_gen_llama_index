@@ -1,0 +1,6 @@
+python-dotenv
+llama-parse
+llama-index
+llama-index-vector-stores-chroma
+llama-index-utils-workflow
+llama-index-core
